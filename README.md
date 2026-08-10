@@ -25,7 +25,7 @@ Email Me 👉 ✉️ **ravitejapidaparthi56@gmail.com** For Collaboration/Projec
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://https://github.com/RaviTeja-sjc/Critique-AI/api?username=RaviTeja-sjc&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github.com/RaviTeja-sjc/Critique-AI)
 
 ---
 [![](https://komarev.com/ghpvc/?username=RaviTeja-sjc&icon=0&color=0)](https://visitcount.itsvg.in)
